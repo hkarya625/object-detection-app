@@ -4,6 +4,8 @@ An Android application that detects and counts forks and spoons in real-time usi
 
 ![Android](https://img.shields.io/badge/Platform-Android-3DDC84?logo=android&logoColor=white)
 ![Kotlin](https://img.shields.io/badge/Language-Kotlin-7F52FF?logo=kotlin&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/Framework-TensorFlow-FF6F00?logo=tensorflow&logoColor=white)
+![YOLOv8](https://img.shields.io/badge/Model-YOLOv8-6A5ACD?logo=opencv&logoColor=white)
 
 
 ## Features
